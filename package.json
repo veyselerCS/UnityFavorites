@@ -1,0 +1,18 @@
+{
+  "name": "com.veyselercs.unityfavorites",
+  "version": "1.0.0",
+  "displayName": "Unity Favorites",
+  "description": "Unity Favorites is a handy tool for caching your favorite assets into a simple UI.",
+  "unity": "2019.4",
+  "dependencies": {
+  },
+  "keywords": [
+    "favorites",
+    "selection",
+    "utility"
+  ],
+  "author": {
+    "name": "Veysel Er",
+    "email": "veyseler.cs.ist@gmail.com"
+  }
+}
